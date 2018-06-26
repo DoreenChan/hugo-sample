@@ -1,0 +1,10 @@
+---
+hide_body: true
+is_partial: false
+fields:
+- type: image_gallery
+  label: Banner
+  name: banner
+- type: text
+  label: Introductory Message
+  name: introductory_message
