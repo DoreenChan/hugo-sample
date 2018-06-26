@@ -5,6 +5,9 @@ fields:
 - type: text
   name: title
   label: Title
+- type: textarea
+  name: content
+  label: content
 pages:
 - content/song-da-feng.html
 - content/new.html
