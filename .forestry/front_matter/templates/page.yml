@@ -6,4 +6,5 @@ fields:
   name: title
   label: Title
 pages:
+- content/song-da-feng.html
 - content/new.html
