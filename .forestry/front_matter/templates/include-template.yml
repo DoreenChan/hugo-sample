@@ -6,3 +6,5 @@ fields:
   name: include_template
   label: include template
   template: page-2
+pages:
+- content/include-template.md
