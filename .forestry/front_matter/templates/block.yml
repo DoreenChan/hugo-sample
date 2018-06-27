@@ -7,3 +7,5 @@ fields:
   label: block
   template_types:
   - page
+pages:
+- content/block.md
