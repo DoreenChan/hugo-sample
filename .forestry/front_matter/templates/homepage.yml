@@ -8,3 +8,5 @@ fields:
 - type: text
   label: Introductory Message
   name: introductory_message
+pages:
+- content/new-2.md
