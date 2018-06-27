@@ -5,3 +5,5 @@ fields:
 - type: blocks
   name: block
   label: block
+  template_types:
+  - page
