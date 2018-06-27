@@ -1,0 +1,8 @@
+---
+hide_body: false
+is_partial: false
+fields:
+- type: include
+  name: include_template
+  label: include template
+  template: page-2
