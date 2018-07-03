@@ -6,4 +6,5 @@ fields:
   name: title
   label: Title
 pages:
+- content/brand-new-article.md
 - content/new-2.md
